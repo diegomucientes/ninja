@@ -1,0 +1,10 @@
+.main{
+    background-color: brown;
+    height:70vh;
+    width: 140vh;
+    display:grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows:25% 25% 25% 25% ;
+    float:right;
+    margin-right: 5%;
+}

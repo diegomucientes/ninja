@@ -1,0 +1,29 @@
+
+
+.subC{
+    background-color:yellow;
+    width:20rem;
+    height: 10rem;
+    grid-row:1;
+    grid-column:1;
+    margin-left:5%;
+    margin-top:5%;
+
+}
+.subC1{
+    background-color:yellow;
+    width:20rem;
+    height: 5rem;
+    grid-column:2;
+    grid-row:1/2;
+    margin-left:5%;
+
+}
+.subC2{
+    background-color:yellow;
+    width:20rem;
+    height: 5rem;
+    grid-column:3;
+    grid-row:1/2;
+    margin-left:5%;
+}
